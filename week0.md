@@ -21,7 +21,7 @@ If you'd like to test on an actual board, you can buy one for like 15 bucks [her
 
 ### Setup steps
 
-Steps for setup can be found at [README.md](../README.md)
+Steps for setup can be found at [README.md](README.md)
 
 ### Testing your setup
 
